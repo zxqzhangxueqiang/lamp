@@ -16,4 +16,3 @@ Route::get('/', function () {
 });
 
 
-Route::get('admin/index', 'LoginController@index');
