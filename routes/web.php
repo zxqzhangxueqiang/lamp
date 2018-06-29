@@ -16,5 +16,5 @@ Route::get('/', function () {
 });
 
 
-Route::get('admin/adminsss', 'LoginController@index');
+Route::get('admin/index', 'LoginController@index');
 
